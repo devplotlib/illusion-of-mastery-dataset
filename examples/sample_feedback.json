@@ -1,0 +1,9 @@
+{
+  "feedback_id": "4da8c3c2-1be9-4d3c-9d47-b8f41a62fd64",
+  "event_id": "e7d9b2a4-4bf0-4aa9-8c7a-19b4e5c93421",
+  "feedback_source": "AI",
+  "feedback_timing": "immediate",
+  "feedback_content": "Check whether the rule you used applies to multiplication. Identify if the expression requires the product rule rather than treating both terms as independent.",
+  "learner_revision": "I think I should use the product rule: d(x^2 * 3x)/dx = (2x)(3x) + (x^2)(3). So the derivative is 6x^2 + 3x^2 = 9x^2.",
+  "revision_is_correct": false
+}
