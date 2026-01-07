@@ -1,0 +1,14 @@
+{
+  "event_id": "e7d9b2a4-4bf0-4aa9-8c7a-19b4e5c93421",
+  "session_id": "9f1c6b77-1ae0-47e3-bc0f-3c2e5730bfa4",
+  "learner_pseudonym": "u_3c91f4a7d2",
+  "timestamp": "2025-01-14T15:30:00Z",
+  "task_id": "math_derivatives_07",
+  "task_domain": "math",
+  "context_mode": "AI-assisted",
+  "input_attempt": "The derivative of x^2 is 2x, so the derivative of x^2 + 3x is 2x + 3. The derivative of x^2 * 3x is also 2x + 3.",
+  "is_correct": false,
+  "error_type": "Misapplication of Prior Rule",
+  "confidence_rating": 4,
+  "ai_usage_degree": 2
+}
